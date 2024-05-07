@@ -1,5 +1,4 @@
 Classe ContaBancaria
-```java
 import java.util.Scanner;
 
 class ContaBancaria {
